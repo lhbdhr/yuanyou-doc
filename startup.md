@@ -1,5 +1,14 @@
 # app.yuanyou.de 使用教程
 
+## 请各位用户务必关注 TG 频道，如果系统维护等等通知会发送在群里
+
+官网：<https://app.yuanyou.de/>
+TG 官方频道：<https://t.me/yuanyou_official>
+
+> **项目说明 & 邮箱功能介绍**：<https://www.nodeseek.com/post-276978-1>
+> **基础功能使用教程**：<https://www.nodeseek.com/post-279791-1>
+> **浏览器插件使用教程**（必看）超级好用!!!：<https://www.nodeseek.com/post-281885-1>
+
 ## 基础功能使用教程，更高阶的使用方法编写中
 
 有小伙伴想要一个使用教程，这里简单说一下基础功能的使用方法
@@ -9,11 +18,6 @@
 2. 收信
 3. 发信
 4. push 别名邮箱
-
-## 请各位用户务必关注 TG 频道，如果系统维护等等通知会发送在群里
-
-官网：<https://app.yuanyou.de/>
-TG 官方频道：<https://t.me/yuanyou_official>
 
 ## 新建别名
 

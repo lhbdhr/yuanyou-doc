@@ -1,5 +1,14 @@
 # 原邮邮箱 - 可以 push 的邮箱。 浏览器插件对接网站教程
 
+## 请各位用户务必关注 TG 频道，如果系统维护等等通知会发送在群里
+
+官网：<https://app.yuanyou.de/>
+TG 官方频道：<https://t.me/yuanyou_official>
+
+> **项目说明 & 邮箱功能介绍**：<https://www.nodeseek.com/post-276978-1>
+> **基础功能使用教程**：<https://www.nodeseek.com/post-279791-1>
+> **浏览器插件使用教程**（必看）超级好用!!!：<https://www.nodeseek.com/post-281885-1>
+
 ## 第一步：下载并安装 simplelogin 官方的浏览器插件
 
 1.下载并安装插件
