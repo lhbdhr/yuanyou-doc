@@ -2,18 +2,18 @@
 
 ## 请各位用户务必关注 TG 频道，如果系统维护等等通知会发送在群里
 
-官网：<https://app.yuanyou.de/>
+官网：<https://app.yuanyou.de/>  
 TG 官方频道：<https://t.me/yuanyou_official>
 
-> **项目说明 & 邮箱功能介绍**：<https://www.nodeseek.com/post-276978-1>
-> **基础功能使用教程**：<https://www.nodeseek.com/post-279791-1>
+> **项目说明 & 邮箱功能介绍**：<https://www.nodeseek.com/post-276978-1>  
+> **基础功能使用教程**：<https://www.nodeseek.com/post-279791-1>  
 > **浏览器插件使用教程**（必看）超级好用!!!：<https://www.nodeseek.com/post-281885-1>
 
 ## 第一步：下载并安装 simplelogin 官方的浏览器插件
 
 1.下载并安装插件
-[https://chromewebstore.google.com/detail/simpleloginreceive-send-e/dphilobhebphkdjbpfohgikllaljmgbn?pli=1](https://chromewebstore.google.com/detail/simpleloginreceive-send-e/dphilobhebphkdjbpfohgikllaljmgbn?pli=1)
-2.将浏览器插件固定，方便后续使用
+[https://chromewebstore.google.com/detail/simpleloginreceive-send-e/dphilobhebphkdjbpfohgikllaljmgbn?pli=1](https://chromewebstore.google.com/detail/simpleloginreceive-send-e/dphilobhebphkdjbpfohgikllaljmgbn?pli=1)  
+2.将浏览器插件固定，方便后续使用  
 ![Chrome-Extension-1](./static/images/PinExtension.gif)
 
 ## 第二步：设置插件的API
@@ -24,15 +24,14 @@ TG 官方频道：<https://t.me/yuanyou_official>
 2. 在API设置界面填入`https://app.yuanyou.de`，然后点击 Set API URL
 3. 然后你就可以登陆了
 
-步骤：
-![Chrome-Extension-1](./static/images/Chrome-Extension-1.png)
+![Chrome-Extension-1](./static/images/Chrome-Extension-1.png)  
 ![Chrome-Extension-2](./static/images/Chrome-Extension-2.png)
 
 ## 第三步：插件使用
 
-> 登陆上之后，推荐先设置一下，点击小齿轮，然后两个选项都打开
+> 登陆上之后，推荐先设置一下，点击小齿轮，然后两个选项都打开  
 第一个选项的意思是在需要登陆的EMAIL旁边生成一个simplelogin的图标，  
-点一下直接就能创建一个别名
+点一下直接就能创建一个别名  
 第二个选项的意思是，把simplelogin的图标放在输入框外面。  
 （为了防止和一些密码管理软件冲突）
 
@@ -45,5 +44,5 @@ TG 官方频道：<https://t.me/yuanyou_official>
 如果你不喜欢完全随机别名，也可以把浏览器插件设置里的这两项取消掉。  
 这样在邮件输入框就没有simplelogin的图标了。
 
-![Extension-CreateAlias-1](./static/images/Extension-CreateAlias-1.gif)
+![Extension-CreateAlias-1](./static/images/Extension-CreateAlias-1.gif)  
 ![Extension-CreateAlias-2](./static/images/Extension-CreateAlias-2.gif)
